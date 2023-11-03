@@ -22,3 +22,8 @@
   span.todotext {
     transition: opacity 0.5s ease-in-out;
   }
+
+  .todoitem:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+  }
